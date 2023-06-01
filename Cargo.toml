@@ -24,4 +24,4 @@ num-traits = "0.2"
 lazy_static = "1.4"
 smallvec = "*"
 
-zkevm_opcode_defs = { git = "https://github.com/matter-labs/era-zkevm_opcode_defs", branch = "v1.3.2" }
+zkevm_opcode_defs = { git = "https://github.com/matter-labs/era-zkevm_opcode_defs", branch = "main" }
